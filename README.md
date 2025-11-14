@@ -28,7 +28,7 @@ EC2 Instance (MySQL)
 
 ### Step1:Create Amazon RDS (Paas)
 
-1. Go to AWS Console --> RDS --> Allow 3306 port number to security group --> Create dabase named as MYNTRA.
+1. Go to AWS Console --> RDS --> Allow 3306 port number to security group --> Create dabase named as Facebook.
 
 ![](./img/Screenshot%201.png)
 
